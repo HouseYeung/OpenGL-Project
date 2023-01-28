@@ -1,0 +1,35 @@
+﻿  源.cpp
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ObjLoader.h(195,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ObjLoader.h(200,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ObjLoader.h(205,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ObjLoader.h(215,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ObjLoader.h(216,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ObjLoader.h(217,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ObjLoader.h(223,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ObjLoader.h(224,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\direct_lighting.h(33,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\direct_lighting.h(43,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ray_trace.h(40,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ray_trace.h(103,27): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ray_trace.h(104,27): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ray_trace.h(106,34): warning C4101: “p3color”: 未引用的局部变量
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ray_trace.h(106,16): warning C4101: “p1color”: 未引用的局部变量
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ray_trace.h(106,25): warning C4101: “p2color”: 未引用的局部变量
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ray_trace.h(122,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ray_trace.h(224,57): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ray_trace.h(225,57): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ray_trace.h(226,57): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ray_trace.h(249,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ray_trace.h(379,14): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ray_trace.h(380,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ray_trace.h(381,14): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ray_trace.h(382,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ray_trace.h(386,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ray_trace.h(429,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Sunday\Desktop\Projects\CG\纹理映射拓展实验\ray_trace.h(430,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码
+  2 of 803 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  纹理映射拓展实验.vcxproj -> C:\Users\Sunday\Desktop\Projects\CG\Release\纹理映射拓展实验.exe
